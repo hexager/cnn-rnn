@@ -37,7 +37,7 @@ EfficientNet-B0 backbone
 **Files** <br>
 Due to Kaggle session constraints, training and analysis are split across two notebooks. 
 - `cnn_rnn.ipynb`: contains the full training run with curves and epoch logs.
-- `task1_analysis.ipynb`: contains evaluation metrics, confusion matrices, and outlier analysis using the saved checkpoint
+- `cnn-rnn_analysis.ipynb`: contains evaluation metrics, confusion matrices, and outlier analysis using the saved checkpoint
 
 **References**:
 - Visin et al. (2015). *ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks*. arXiv:1505.00393
