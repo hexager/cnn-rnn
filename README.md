@@ -44,4 +44,4 @@ Due to Kaggle session constraints, training and analysis are split across two no
 - Tan & Le (2019). *EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks*. ICML 2019
 - Cho et al. (2014). *Learning Phrase Representations using RNN Encoder-Decoder*. arXiv:1406.1078
 
-
+Task 1 of 2 for submission. Task 2 here: https://github.com/hexager/simclr-faiss
